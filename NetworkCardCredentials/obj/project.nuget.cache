@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "fN6pazi6cbJAlV9xW/osdrDPrLrc9Ws/quGaHKjG4jMxqcFZyY6zKcnK6NI3CuF+ffL283Nfffs8dH+TmvEbFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexg\\Desktop\\CampusNet\\VS2022\\NetworkCardCredentials\\NetworkCardCredentials\\NetworkCardCredentials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexg\\.nuget\\packages\\windowsapicodepack-core\\1.1.2\\windowsapicodepack-core.1.1.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"WindowsAPICodePack-Core 1.1.2\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "WindowsAPICodePack-Core",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}
